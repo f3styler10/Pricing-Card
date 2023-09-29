@@ -149,9 +149,10 @@ button {
     {
 
         .card{
-            height:auto;
+       
             width:330px;
             margin:0;
+            height:auto;
         }
 
         .bottom-left{
